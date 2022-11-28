@@ -6,3 +6,5 @@ They must know how to collaborate
 The environment is configured and secured 
 Now they can push to github 
 Author: Jennifer
+paypal custumer application 
+Developers pls verify
